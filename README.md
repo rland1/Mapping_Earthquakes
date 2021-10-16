@@ -2,4 +2,4 @@
 
 ## Overview of Analysis 
 
-The purpose of this 
+The purpose of this analysis is to map out all of the tectonic plates and past earthquakes by magnitude and time. 
